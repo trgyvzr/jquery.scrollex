@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am trgyvzr on github.
+  * I am vezir (https://keybase.io/vezir) on keybase.
+  * I have a public key ASADrE8RgayhW3N5NTXCdVstPx5a6w3krN8dL9lNwKCCGQo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012003ac4f1181aca15b73793535c2755b2d3f1e5aeb0de4acdf1d2fd94dc0a082190a",
+      "host": "keybase.io",
+      "kid": "012003ac4f1181aca15b73793535c2755b2d3f1e5aeb0de4acdf1d2fd94dc0a082190a",
+      "uid": "de556bb6b2642c0c50d17793a5958b19",
+      "username": "vezir"
+    },
+    "merkle_root": {
+      "ctime": 1568827991,
+      "hash": "63869627e4f286a45686ff79af6cc35e29619916a580291dd2c50c559c2d9b66ce3fbba0462521bdab48db98e850fdcce405eee679e74c4b35cbb92058207872",
+      "hash_meta": "f970ba1ae70e7c2b0d43680127b1b8f8c4520b1c3428c5aed35db1c7ecfae37b",
+      "seqno": 7570859
+    },
+    "service": {
+      "entropy": "abQ8/ze5r0ZdDdGIpP7Oaayd",
+      "name": "github",
+      "username": "trgyvzr"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568828000,
+  "expire_in": 504576000,
+  "prev": "29a1b5d10d6f141260d95c8dd859cd1364b3575a13dbecfdf68822d0f1827f47",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+
+with the key [ASADrE8RgayhW3N5NTXCdVstPx5a6w3krN8dL9lNwKCCGQo](https://keybase.io/vezir), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA6xPEYGsoVtzeTU1wnVbLT8eWusN5KzfHS/ZTcCgghkKp3BheWxvYWTESpcCDsQgKaG10Q1vFBJg2VyN2FnNE2SzV1oT2+z99ogi0PGCf0fEIK7z1Tr1cz3WecwUYc7G1fMPdfH5NOTNhMSPqXbOmRbeAgHCo3NpZ8RAB8Tu+ZDmb+TG0hSYtVHTr/E2oa++rv8teEXnNC80DTq2hZVb3pyZU4keWHpuEwgC+y16e0AZU2APu6m2i7FzD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGgujt1EitpznR6niUZ5NS4e0CST2B6Ly0pwlE2cWlUMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/vezir
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id vezir
